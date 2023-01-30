@@ -29,7 +29,9 @@ ___
 
 - Bepaal als team welke HTML/CSS-methode je voor de website gat gebruiken (zelf schrijven, Bulma of iets anders). Zorg ervoor 
   dat je het als team hierover eens bent om te zorgen dat de pagina's allemaal in dezelfde style gemaakt worden. Implementeer
-  deze gemaakte keuze binnen je Github project. (denk ook aan responsiveness!)
+  deze gemaakte keuze binnen je Github project. Denk hierbij aan alles lessen die je hebt geleerd tijdens de module "Frontend
+  Development" in kwartaal 1. Zeker nu je werkt voor een doelgroep is het belangrijk dat je een gebruiksvriendelijke en mooie
+  website oplevert.
 - Maak je eigen HTML-pagina aan aan waar jouw werk komt te staan. Begin met het opmaken van de layout zoals jij wilt dat je 
   werk eruit komt te zien. Zorg ervoor dat er minimaal 10 items zichtbaar zijn met informatie over jouw onderwerp.
 
