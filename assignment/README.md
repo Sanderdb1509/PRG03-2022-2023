@@ -27,7 +27,7 @@ Webservice uit Opdracht 1 gaan maken.
 ___
 ## Opdracht 2 (zonder AJAX)
 
-- Bepaal als team welke HTML/CSS-methode je voor de website gat gebruiken (zelf schrijven, Bulma of iets anders). Zorg ervoor 
+- Bepaal als team welke HTML/CSS-methode je voor de website gaat gebruiken (zelf schrijven, Bulma of iets anders). Zorg ervoor 
   dat je het als team hierover eens bent om te zorgen dat de pagina's allemaal in dezelfde style gemaakt worden. Implementeer
   deze gemaakte keuze binnen je Github project. Denk hierbij aan alles lessen die je hebt geleerd tijdens de module "Frontend
   Development" in kwartaal 1. Zeker nu je werkt voor een doelgroep is het belangrijk dat je een gebruiksvriendelijke en mooie
