@@ -13,13 +13,13 @@ FeedbackFruits in het mapje 'Praktijkopdracht'.
 ## Opdracht 1
 
 - Via Github maak je een project aan waar je met 4 teamgenoten in zit. Clone deze repository op de machine van elke 
-  teamgenoot. Doe dit in de htdocs map van XAMPP zodat je het project via **http://localhost/<projectnaam>** kunt benaderen.
+  teamgenoot. Doe dit in de htdocs map van XAMPP zodat je het project via **http://localhost/--projectnaam--** kunt benaderen.
 - Zorg ervoor dat je de [initiële code](webservice-start) lokaal kopieert naar dit nieuwe project, zodat je
   kunt starten met de opdracht. Geef de mapnaam een logische naam zodat alle 4 de webservices in jullie team van elkaar
   te onderscheiden zijn.
 - Pas de informatie in `actions.php` aan naar eigen informatie die voor je webservice relevant is. Zorg ervoor dat er
   minimaal 10 items instaan zodat je voldoende data hebt.
-- Test de JSON-output van je webservice in de browser op **http://localhost/<projectnaam>/<webservice-mapnaam>** om te zien of
+- Test de JSON-output van je webservice in de browser op **http://localhost/--projectnaam--/--webservice-mapnaam--** om te zien of
   de output klopt. Gebruik eventueel de [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en).
 ___
 >**Belangrijk**: Gebruik voor Opdracht 2/3/4 eigen teksten en plaatjes, omdat we pas in Opdracht 5 de koppeling naar de 
