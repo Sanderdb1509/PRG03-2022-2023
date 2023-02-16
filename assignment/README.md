@@ -13,23 +13,25 @@ FeedbackFruits in het mapje 'Praktijkopdracht'.
 ## Opdracht 1
 
 - Via Github maak je een project aan waar je met 4 teamgenoten in zit. Clone deze repository op de machine van elke 
-  teamgenoot. Doe dit in de htdocs map van XAMPP zodat je het project via **http://localhost/<projectnaam>** kunt benaderen.
+  teamgenoot. Doe dit in de htdocs map van XAMPP zodat je het project via **http://localhost/--projectnaam--** kunt benaderen.
 - Zorg ervoor dat je de [initiële code](webservice-start) lokaal kopieert naar dit nieuwe project, zodat je
   kunt starten met de opdracht. Geef de mapnaam een logische naam zodat alle 4 de webservices in jullie team van elkaar
   te onderscheiden zijn.
 - Pas de informatie in `actions.php` aan naar eigen informatie die voor je webservice relevant is. Zorg ervoor dat er
   minimaal 10 items instaan zodat je voldoende data hebt.
-- Test de JSON-output van je webservice in de browser op **http://localhost/<projectnaam>/<webservice-mapnaam>** om te zien of
-- de output klopt. Gebruik eventueel de [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en).
+- Test de JSON-output van je webservice in de browser op **http://localhost/--projectnaam--/--webservice-mapnaam--** om te zien of
+  de output klopt. Gebruik eventueel de [Chrome plugin](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en).
 ___
 >**Belangrijk**: Gebruik voor Opdracht 2/3/4 eigen teksten en plaatjes, omdat we pas in Opdracht 5 de koppeling naar de 
 Webservice uit Opdracht 1 gaan maken.
 ___
 ## Opdracht 2 (zonder AJAX)
 
-- Bepaal als team welke HTML/CSS-methode je voor de website gat gebruiken (zelf schrijven, Bulma of iets anders). Zorg ervoor 
+- Bepaal als team welke HTML/CSS-methode je voor de website gaat gebruiken (zelf schrijven, Bulma of iets anders). Zorg ervoor 
   dat je het als team hierover eens bent om te zorgen dat de pagina's allemaal in dezelfde style gemaakt worden. Implementeer
-  deze gemaakte keuze binnen je Github project. (denk ook aan responsiveness!)
+  deze gemaakte keuze binnen je Github project. Denk hierbij aan alles lessen die je hebt geleerd tijdens de module "Frontend
+  Development" in kwartaal 1. Zeker nu je werkt voor een doelgroep is het belangrijk dat je een gebruiksvriendelijke en mooie
+  website oplevert.
 - Maak je eigen HTML-pagina aan aan waar jouw werk komt te staan. Begin met het opmaken van de layout zoals jij wilt dat je 
   werk eruit komt te zien. Zorg ervoor dat er minimaal 10 items zichtbaar zijn met informatie over jouw onderwerp.
 
