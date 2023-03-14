@@ -1,0 +1,31 @@
+{
+  "short_name": "TodoApp",
+  "name": "Todo app voor Programmeren 3",
+  "icons": [
+    {
+      "src": "img/icon-48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/icon-96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/icon-144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/icon-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ff0000",
+  "background_color": "#ff0000",
+  "start_url": "index.html",
+  "display": "standalone"
+}
