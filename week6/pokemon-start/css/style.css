@@ -11,7 +11,7 @@ h1.main-title {
     text-align: center;
     font-family: 'Press Start 2P', sans-serif;
     text-shadow: darkblue 2px 5px;
-    color:white;
+    color: white;
 }
 
 h2 {
@@ -19,6 +19,14 @@ h2 {
     padding: 4px;
     text-transform: capitalize;
     color: rgba(14, 14, 42, 0.7);
+}
+
+h2 span {
+    background-color: darkgreen;
+    color: white;
+    font-size: 0.9em;
+    padding: 4px;
+    border-radius: 12px;
 }
 
 #pokemon-gallery {
