@@ -90,8 +90,9 @@ h2 span {
     align-items: flex-start;
     justify-content: center;
     border: none;
-    border-radius: 10px;
-    padding: 30px;
+    border-radius: 16px;
+    padding: 0px;
+    box-shadow: 0 16px 22px 0 rgba(0, 0, 0, 0.6);
 }
 
 .modal[open] {
@@ -109,7 +110,7 @@ h2 span {
     right: 5px;
     outline: none;
     appearance: none;
-    color: darkred;
+    color: goldenrod;
     background: none;
     border: 0;
     font-weight: bold;
@@ -119,8 +120,36 @@ h2 span {
 
 .modal-content h1 {
     margin: 0;
+    padding: 20px;
+    background-color: rgb(43, 123, 73);
+    color: white;
+    text-transform: capitalize;
 }
 
 .modal-content img {
-    width: 250px;
+    width: 300px;
+}
+
+/* shiny shiny */
+.modal-content::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-image: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.4) 52%, rgba(255, 255, 255, 0) 100%);
+    animation: shiny-animation 5s ease-in-out infinite alternate;
+    background-position-y: 0px;
+}
+
+@keyframes shiny-animation {
+    0% {
+        background-position-y: 0px;
+    }
+
+    100% {
+        background-position-y: 600px;
+    }
 }
